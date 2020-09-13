@@ -7,7 +7,9 @@
 На тестирование затрачено: 0,1 часа. ~~И ещё час на оформление этой документации.~~
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
+* https://github.com/kaolin19/1.1.KeyValidator/issues/2
+* https://github.com/kaolin19/1.1.KeyValidator/issues/3
+* https://github.com/kaolin19/1.1.KeyValidator/issues/4
 
 ## Описание процесса тестирования
 
